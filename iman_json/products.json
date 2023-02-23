@@ -1,0 +1,14 @@
+{
+    "etsy":[
+        {"id":"1","name":"product1","price":"30000","image":"images/c.webp","details":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, hic odit. Aliquid eum obcaecati ducimus dicta non, possimus vitae fugiat."},
+        {"id":"2","name":"product2","price":"30000","image":"images/e.webp","details":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, hic odit. Aliquid eum obcaecati ducimus dicta non, possimus vitae fugiat."},
+        {"id":"3","name":"product3","price":"30000","image":"images/c.webp","details":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, hic odit. Aliquid eum obcaecati ducimus dicta non, possimus vitae fugiat."}
+    ],
+    "sunflower":[
+        {"id":"1","name":"product1","price":"30000","image":"images/c.webp","details":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, hic odit. Aliquid eum obcaecati ducimus dicta non, possimus vitae fugiat."},
+        {"id":"2","name":"product2","price":"30000","image":"images/c.webp","details":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, hic odit. Aliquid eum obcaecati ducimus dicta non, possimus vitae fugiat."},
+        {"id":"3","name":"product3","price":"30000","image":"images/c.webp","details":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, hic odit. Aliquid eum obcaecati ducimus dicta non, possimus vitae fugiat."}
+    ]
+    
+   
+}
